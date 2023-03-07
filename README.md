@@ -10,3 +10,5 @@ Diffuse optical tomography (DOT) is a promising technique that provides function
 ## Details
 
 Model structures can be found in net.py.
+
+Testing example can be found in dot_us_model.py.
