@@ -1,4 +1,4 @@
-# Fusion_model
+# Fusion model
 
 A classification fusion model for Ultrasound images and DOT reconstruction images.
 ![This is an image](https://github.com/OpticalUltrasoundImaging/Fusion_model/blob/main/structures.png)
