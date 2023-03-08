@@ -1,6 +1,8 @@
 # Fusion model
+**by Menghao Zhang and Minghao Xue. (https://opticalultrasoundimaging.wustl.edu/)**
 
 A classification fusion model for Ultrasound images and DOT reconstruction images.
+
 ![This is an image](https://github.com/OpticalUltrasoundImaging/Fusion_model/blob/main/structures.png)
 
 ## Abstract
